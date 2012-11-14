@@ -2,7 +2,7 @@
     "name": "damien-list/phpquery-1",
     "type": "library",
     "description": "Port of jQuery in PHP",
-    "keywords": ["jquery","domcrawler",],
+    "keywords": ["jquery","domcrawler"],
     "homepage": "http://github.com/damien-list/phpquery-1",
     "license": "MIT",
     "authors": [
